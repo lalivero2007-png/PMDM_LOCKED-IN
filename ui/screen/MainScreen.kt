@@ -53,7 +53,6 @@ fun MainScreen(
         ) {
             items(comidas) { comida ->
                 ComidaCard(comida = comida)
-                // Actualización de datos
             }
         }
     }

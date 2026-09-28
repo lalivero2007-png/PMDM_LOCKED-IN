@@ -20,7 +20,6 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize()
                 ) {
                     MainScreen()
-                    // Actualización de datos
                 }
             }
         }
