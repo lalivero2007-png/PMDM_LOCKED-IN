@@ -69,6 +69,7 @@ class ComidaViewModel : ViewModel() {
             esDulce = true,
             calorias = 190,
             proteinas = 8
+            // Actualización de datos
         )
     )
 }

@@ -8,4 +8,5 @@ data class Comida(
     val etiquetasAlergenos: List<String> = emptyList(),
     val calorias: Int,
     val proteinas: Int
+    // Actualización de datos
 )

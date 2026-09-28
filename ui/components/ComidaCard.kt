@@ -99,6 +99,7 @@ fun ComidaCard(
                     text = "💪 ${comida.proteinas}g",
                     fontSize = 11.sp,
                     color = Color.DarkGray
+                    // Actualización de datos
                 )
             }
         }
